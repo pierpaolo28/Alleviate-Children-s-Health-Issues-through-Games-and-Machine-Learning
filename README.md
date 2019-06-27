@@ -5,4 +5,6 @@
 Developed a suite of games designed to help children's affected by disabilities. 
 These games are synchronised with a wireless EEG wearable device used to register the children brain activities. 
 Analysing the brainwaves data, using Machine Learning, has then been possible to correctly classify with 96.9% accuracy if a 
-child is affected or not by autism.
+child is affected or not by autism. <br>
+
+A Demo demonstration of the games in actions can be found [here](https://www.youtube.com/watch?v=KakNrl0ls_4)
